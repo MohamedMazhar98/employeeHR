@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mohamedmazhar
+Build-Jdk: 21.0.8
+Implementation-Title: SpringAngularOracle
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.advancia.stage
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringAngularOracle
+Created-By: Maven Integration for Eclipse
+
