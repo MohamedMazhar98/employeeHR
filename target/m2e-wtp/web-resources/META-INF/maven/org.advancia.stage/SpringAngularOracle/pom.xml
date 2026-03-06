@@ -5,6 +5,7 @@
 	<groupId>org.advancia.stage</groupId>
 	<artifactId>SpringAngularOracle</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>SpringAngularOracle</name>
 
 	<parent>
@@ -26,6 +27,14 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		
+		<!-- JUNIT TEST! -->
+			
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter</artifactId>
+			<version>6.0.2</version>
 		</dependency>
 
 
