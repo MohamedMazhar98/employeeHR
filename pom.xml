@@ -5,6 +5,7 @@
 	<groupId>org.advancia.stage</groupId>
 	<artifactId>SpringAngularOracle</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>SpringAngularOracle</name>
 
 	<parent>
